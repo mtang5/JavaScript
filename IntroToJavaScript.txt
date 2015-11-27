@@ -12,6 +12,8 @@ execute on client
 
 interpreted language
 
+jdk/bin and jre/bin are put into path on my computer -> properties -> advanced system settings -> environment variables -> Path
+
 <html>
 	<head> 
 	
