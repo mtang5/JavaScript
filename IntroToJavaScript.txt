@@ -1,0 +1,28 @@
+javascript is high level, dynamic, untyped, and interpreted programming language
+
+one of 3 essential technologies of world wide web content production
+
+allow interactivity
+
+allow browser/page manipulation
+
+improve appearance
+
+execute on client
+
+interpreted language
+
+<html>
+	<head> 
+	
+	<title> My HTML </title> 
+	
+	<script type="text/javascript">
+		document.write("Hello World");
+		document.write("<h1>Hello World2</h1>");
+	</script>
+	
+	</head>
+
+	<body> </body>
+</html>
